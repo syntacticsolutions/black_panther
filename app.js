@@ -1,7 +1,6 @@
 const bodyParser = require('body-parser')
 const cors = require('cors')
 const path = require('path')
-var jwt = require('jsonwebtoken')
 var express = require('express')
 const app = express()
 
